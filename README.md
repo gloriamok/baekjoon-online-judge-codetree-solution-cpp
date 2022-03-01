@@ -4,6 +4,6 @@
 
 알고리즘 분류
 
-1. 그리디 알고리즘
+1. 그리디 알고리즘 (
     - [11399번 문제: ATM](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11399_greedy.cpp)
     - 
