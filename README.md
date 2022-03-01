@@ -7,3 +7,7 @@
 1. 그리디 알고리즘 (Greedy)
     - [11399번 문제: ATM](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11399_greedy.cpp)
     - 
+
+
+풀이 해설은 블로그에 나와있어요
+https://blog.naver.com/PostList.naver?blogId=gloriamok&from=postList&categoryNo=24
