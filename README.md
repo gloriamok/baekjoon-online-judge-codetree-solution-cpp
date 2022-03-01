@@ -10,4 +10,4 @@
 
 
 풀이 해설은 블로그에 나와있어요
-https://blog.naver.com/PostList.naver?blogId=gloriamok&from=postList&categoryNo=24
+- https://blog.naver.com/PostList.naver?blogId=gloriamok&from=postList&categoryNo=24
