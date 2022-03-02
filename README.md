@@ -1,6 +1,6 @@
 # baekjoon-online-judge-solution-cpp
 
-백준 온라인 저지 풀이 코드 (
+백준 온라인 저지 풀이 코드 (C++)
 
 알고리즘 분류
 
