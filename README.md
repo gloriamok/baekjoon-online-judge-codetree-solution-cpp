@@ -14,6 +14,7 @@
     - [2839번 문제: 설탕 배달](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2839_greedy.cpp)
     - [1789번 문제: 수들의 합](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1789_greedy.cpp)
     - [1026번 문제: 보물](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1026_greedy.cpp)
+    - [14487번 문제: 욱제는 효도쟁이야!!](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14487_greedy.cpp)
 
 
 풀이 해설은 블로그에 나와있어요
