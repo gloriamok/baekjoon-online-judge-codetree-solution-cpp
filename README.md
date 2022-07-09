@@ -16,6 +16,7 @@
     - [1026번 문제: 보물](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1026_greedy.cpp)
     - [14487번 문제: 욱제는 효도쟁이야!!](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14487_greedy.cpp)
     - [2864번 문제: 5와 6의 차이](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2864_greedy.cpp)
+    - [15904번 문제: UCPC는 무엇의 약자일까?](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF15904_greedy.cpp)
 
 
 풀이 해설은 블로그에 나와있어요
