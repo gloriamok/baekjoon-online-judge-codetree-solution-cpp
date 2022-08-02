@@ -19,8 +19,22 @@
     - [15904번 문제: UCPC는 무엇의 약자일까?](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF15904_greedy.cpp)
     - [14469번 문제: 소가 길을 건너간 이유 3](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n14469_greedy.cpp)
     - [16435번 문제: 스네이크버드](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF16435_greedy.cpp)
-    - [﻿9237번 문제: 이장님 초대](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF9237_greedy.cpp)
-
+    - [9237번 문제: 이장님 초대](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF9237_greedy.cpp)
+    
+2. 깊이 우선 탐색 (Depth-first Search)
+    - [2210번 문제: 숫자판 점프](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2210_dfs.cpp)
+    
+3. 너비 우선 탐색 (Breadth-first Search)
+    - [24445번 문제: 알고리즘 수업 - 너비 우선 탐색 2](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF24445_bfs.cpp)
+    
+4. 이분 탐색 (Binary Search)
+    - [12738번 문제: 가장 긴 증가하는 부분 수열 3](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n12738_binarysearch.cpp)
+    
+5. 다이나믹 프로그래밍 (Dynamic Programming)
+    - [11053번 문제: 가장 긴 증가하는 부분 수열](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11053_dp.cpp)
+    - [11722번 문제: 가장 긴 감소하는 부분 수열](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11722_dp.cpp)
+    - [1003번 문제: 피보나치 함수](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1003_dp.cpp)
+    
 
 풀이 해설은 블로그에 나와있어요
 - https://blog.naver.com/PostList.naver?blogId=gloriamok&from=postList&categoryNo=24
