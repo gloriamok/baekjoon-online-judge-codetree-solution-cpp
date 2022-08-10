@@ -24,6 +24,7 @@
     
 2. 깊이 우선 탐색 (Depth-first Search)
     - [2210번 문제: 숫자판 점프](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2210_dfs.cpp)
+    - [1260번 문제: DFS와 BFS](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1260_dfs_bfs.cpp)
     
 3. 너비 우선 탐색 (Breadth-first Search)
     - [24445번 문제: 알고리즘 수업 - 너비 우선 탐색 2](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF24445_bfs.cpp)
