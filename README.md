@@ -39,6 +39,7 @@
     - [1003번 문제: 피보나치 함수](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1003_dp.cpp)
     - [9655번 문제: 돌 게임](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n9655_dp.cpp)
     - [9656번 문제: 돌 게임 2](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n9656_dp.cpp)
+    - [2748번 문제: 피보나치 수 2](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2748_dp.cpp)
     
 
 풀이 해설은 블로그에 나와있어요
