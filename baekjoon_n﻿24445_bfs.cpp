@@ -17,9 +17,9 @@ void BFS(int n, int r) {
         numqueue.pop();
 
         for (int v : edge[front]) {
-            if (visited[v] == 0) { v를 방문하지 않았다면
+            if (visited[v] == 0) { // v를 방문하지 않았다면
                 numqueue.push(v);
-                visited[v] = order++; v를 방문 후 방문순서를 넣음
+                visited[v] = order++; // v를 방문 후 방문순서를 넣음
             }
         }
     }
