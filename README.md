@@ -9,7 +9,7 @@
     - [11047번 문제: 동전 0](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11047_greedy.cpp)
     - [5585번 문제: 거스름돈](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n5585_greedy.cpp)
     - [10162번 문제: 전자레인지](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n10162_greedy.cpp)
-    - [16953번 문제: A → B](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n16953_greedy.cpp)
+    - [16953번 문제: A → B](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n16953_greedy_bfs.cpp)
     - [2720번 문제: 세탁소 사장 동혁](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2720_greedy.cpp)
     - [2839번 문제: 설탕 배달](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2839_greedy.cpp)
     - [1789번 문제: 수들의 합](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1789_greedy.cpp)
