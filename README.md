@@ -21,6 +21,7 @@
     - [16435번 문제: 스네이크버드](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF16435_greedy.cpp)
     - [9237번 문제: 이장님 초대](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF9237_greedy.cpp)
     - [17224번 문제: APC는 왜 서브태스크 대회가 되었을까?](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n17224_greedy.cpp)
+    - [11508번 문제: 2+1 세일](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11508_greedy.cpp)
     
 2. 깊이 우선 탐색 (Depth-first Search)
     - [2210번 문제: 숫자판 점프](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2210_dfs.cpp)
