@@ -34,6 +34,7 @@
     
 4. 이분 탐색 (Binary Search)
     - [12738번 문제: 가장 긴 증가하는 부분 수열 3](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n12738_binarysearch.cpp)
+    - [10815번 문제: 숫자 카드](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF10815_binarysearch.cpp)
     
 5. 다이나믹 프로그래밍 (Dynamic Programming)
     - [11053번 문제: 가장 긴 증가하는 부분 수열](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11053_dp.cpp)
