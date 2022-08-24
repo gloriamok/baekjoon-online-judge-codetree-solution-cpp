@@ -11,7 +11,7 @@ int main() {
 		if (letter >= 97) count[letter - 97]++; // 소문자라면 -97
 		else count[letter - 65]++; // 대문자라면 원래 문자의 아스키코드에 -65한 index 사용해 count++
 	}
-	int max = 0,  maxIdx;
+	int max = 0,  maxIdx = 0;
 	for (int i = 0; i < 26; i++) { // 가장 많이 사용된 알파벳 찾기
 		if (count[i] > max) {
 			max = count[i];
