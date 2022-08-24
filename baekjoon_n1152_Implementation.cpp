@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <vector>
 using namespace std;
 
 int main() {
@@ -10,11 +9,9 @@ int main() {
 		cout << 0;
 		return 0;
 	}
-	vector<char> c;
 	int cnt = 0;
 	for (int i = 0; i < line.size() ; i++) {
-		c.push_back(line[i]);
-		if (c.at(i) == ' ' && i!=0 && i!=line.size()-1) cnt++; // 문자열의 맨처음과 맨마지막 부분(문자열이 공백으로 시작하거나 끝날 때)의 공백을 뺀 나머지의 공백' '을 셈
+		if (line[i] == ' ' && i!=0 && i!=line.size()-1) cnt++;
 	}
 	cout << cnt + 1; // 센 공백의 수에서 1을 더해서 출력
 }
