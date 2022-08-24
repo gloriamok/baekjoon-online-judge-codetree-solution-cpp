@@ -50,6 +50,7 @@
 6. 구현 (Implementation)
     - [1152번 문제: 단어의 개수](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1152_Implementation.cpp)
     - [1157번 문제: 단어 공부](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1157_Implementation.cpp)
+    - [11720번 문제: 숫자의 합](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11720_Implementation.cpp)
     
 
 풀이 해설은 블로그에 나와있어요
