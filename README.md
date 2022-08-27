@@ -48,6 +48,7 @@
     - [9656번 문제: 돌 게임 2](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n9656_dp.cpp)
     - [2748번 문제: 피보나치 수 2](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2748_dp.cpp)
     - [9095번 문제: 1, 2, 3 더하기](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n9095_dp.cpp)
+    - [9625번 문제: BABBA](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF9625_dp.cpp)
     
 6. 구현 (Implementation)
     - [1152번 문제: 단어의 개수](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1152_Implementation.cpp)
