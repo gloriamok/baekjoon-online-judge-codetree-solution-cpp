@@ -34,6 +34,7 @@
     - [10026번 문제: 적록색약](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF10026_dfs.cpp)
     - [4963번 문제: 섬의 개수](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF4963_dfs.cpp)
     - [3184번 문제: 양](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n3184_dfs.cpp)
+    - [3187번 문제: 양치기 꿍](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n3187_dfs.cpp)
     
 3. 너비 우선 탐색 (Breadth-first Search)
     - [24445번 문제: 알고리즘 수업 - 너비 우선 탐색 2](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF24445_bfs.cpp)
