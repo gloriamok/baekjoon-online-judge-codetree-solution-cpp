@@ -21,6 +21,7 @@
     - [14469번 문제: 소가 길을 건너간 이유 3](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n14469_greedy.cpp)
     - [16435번 문제: 스네이크버드](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF16435_greedy.cpp)
     - [9237번 문제: 이장님 초대](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF9237_greedy.cpp)
+    - [9237번 문제: 이장님 초대](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF9237_2_greedy.cpp)
     - [17224번 문제: APC는 왜 서브태스크 대회가 되었을까?](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n17224_greedy.cpp)
     - [11508번 문제: 2+1 세일](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11508_greedy.cpp)
     - [1715번 문제: 카드 정렬하기](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF1715_greedy.cpp)
