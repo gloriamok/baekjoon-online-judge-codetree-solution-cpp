@@ -6,6 +6,7 @@
 
 1. 그리디 알고리즘 (Greedy)
     - [11399번 문제: ATM](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11399_greedy.cpp)
+    - [11399번 문제: ATM](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11399_2_greedy.cpp)
     - [11047번 문제: 동전 0](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11047_greedy.cpp)
     - [5585번 문제: 거스름돈](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n5585_greedy.cpp)
     - [10162번 문제: 전자레인지](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n10162_greedy.cpp)
