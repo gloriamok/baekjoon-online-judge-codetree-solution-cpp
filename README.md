@@ -40,11 +40,12 @@
     - [3184번 문제: 양](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n3184_dfs.cpp)
     - [3187번 문제: 양치기 꿍](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n3187_dfs.cpp)
     - [2583번 문제: 영역 구하기](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2583_dfs.cpp)
+    - [2606번 문제: 바이러스](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2606_dfs.cpp)
     
 3. 너비 우선 탐색 (Breadth-first Search)
     - [24445번 문제: 알고리즘 수업 - 너비 우선 탐색 2](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF24445_bfs.cpp)
     - [24444번 문제: 알고리즘 수업 - 너비 우선 탐색 1](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF24444_bfs.cpp)
-    - [2606번 문제: 바이러스](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2606_dfs_bfs.cpp)
+    - [2606번 문제: 바이러스](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2606_bfs.cpp)
     
 4. 이분 탐색 (Binary Search)
     - [12738번 문제: 가장 긴 증가하는 부분 수열 3](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n12738_binarysearch.cpp)
