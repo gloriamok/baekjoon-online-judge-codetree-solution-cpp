@@ -29,6 +29,7 @@
     - [3135번 문제: 라디오](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF3135_greedy.cpp)
     - [14720번 문제: 우유 축제](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14720_greedy.cpp)
     - [1969번 문제: DNA](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1969_greedy.cpp)
+    - [1449번 문제: 수리공 항승](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1449_greedy.cpp)
     
 2. 깊이 우선 탐색 (Depth-first Search)
     - [2210번 문제: 숫자판 점프](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2210_dfs.cpp)
@@ -38,6 +39,7 @@
     - [4963번 문제: 섬의 개수](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF4963_dfs.cpp)
     - [3184번 문제: 양](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n3184_dfs.cpp)
     - [3187번 문제: 양치기 꿍](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n3187_dfs.cpp)
+    - [2583번 문제: 영역 구하기](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2583_dfs.cpp)
     
 3. 너비 우선 탐색 (Breadth-first Search)
     - [24445번 문제: 알고리즘 수업 - 너비 우선 탐색 2](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF24445_bfs.cpp)
@@ -63,6 +65,7 @@
     - [24416번 문제: 알고리즘 수업 - 피보나치 수 1](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF%EF%BB%BF24416%EF%BB%BF_dp.cpp)
     - [1010번 문제: 다리 놓기](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1010_dp.cpp)
     - [1463번 문제: 1로 만들기](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1463_dp.cpp)
+    - [149번 문제: RGB거리](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1149_dp.cpp)
     
 6. 구현 (Implementation)
     - [1152번 문제: 단어의 개수](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1152_Implementation.cpp)
