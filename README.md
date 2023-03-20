@@ -30,6 +30,7 @@
     - [14720번 문제: 우유 축제](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14720_greedy.cpp)
     - [1969번 문제: DNA](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1969_greedy.cpp)
     - [1449번 문제: 수리공 항승](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1449_greedy.cpp)
+    - [1541번 문제: 잃어버린 괄호](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1541_greedy.cpp)
     
 2. 깊이 우선 탐색 (Depth-first Search)
     - [2210번 문제: 숫자판 점프](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2210_dfs.cpp)
