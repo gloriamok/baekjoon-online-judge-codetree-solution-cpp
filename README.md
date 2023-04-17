@@ -48,7 +48,7 @@
     - [24444번 문제: 알고리즘 수업 - 너비 우선 탐색 1](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF24444_bfs.cpp)
     - [2606번 문제: 바이러스](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2606_bfs.cpp)
     - [2178번 문제: 미로 탐색](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2178_bfs.cpp)
-    - [14502번 문제: 연구소](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n14502_dfs_bfs.cpp) [해설](https://gloriamok.tistory.com/13)
+    - [14502번 문제: 연구소](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n14502_dfs_bfs.cpp) | [해설](https://gloriamok.tistory.com/13)
     
 4. 이분 탐색 (Binary Search)
     - [12738번 문제: 가장 긴 증가하는 부분 수열 3](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n12738_binarysearch.cpp)
@@ -77,7 +77,7 @@
     - [11720번 문제: 숫자의 합](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11720_Implementation.cpp)
     
 7. 완전탐색,브루트포스 알고리즘 (Bruteforcing)
-    - [14500번 문제: 테트로미노](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14500_bruteforce.cpp) [해설](https://gloriamok.tistory.com/12)
+    - [14500번 문제: 테트로미노](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14500_bruteforce.cpp) | [해설](https://gloriamok.tistory.com/12)
     
 
 풀이 해설은 블로그에 나와있어요
