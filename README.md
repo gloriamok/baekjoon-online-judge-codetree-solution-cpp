@@ -48,6 +48,7 @@
     - [24444번 문제: 알고리즘 수업 - 너비 우선 탐색 1](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF24444_bfs.cpp)
     - [2606번 문제: 바이러스](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2606_bfs.cpp)
     - [2178번 문제: 미로 탐색](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n2178_bfs.cpp)
+    - [14502번 문제: 연구소](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n14502_dfs_bfs.cpp)
     
 4. 이분 탐색 (Binary Search)
     - [12738번 문제: 가장 긴 증가하는 부분 수열 3](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n12738_binarysearch.cpp)
