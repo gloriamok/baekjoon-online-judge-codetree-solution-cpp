@@ -6,7 +6,7 @@ using namespace std;
 int n, m, lab[8][8]{};
 int maxSafePlace = 0; // 안전 영역의 최대 크기
 int zero = 0; // 빈 칸의 수
-vector<pair<int, int>> virus;
+vector<pair<int, int>> virus; // 바이러스 위치
 int dx[4] = { 0,0,1,-1 }, dy[4] = { 1,-1,0,0 };
 
 int bfs() {
