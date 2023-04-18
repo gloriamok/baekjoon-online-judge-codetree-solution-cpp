@@ -78,6 +78,7 @@
     
 7. 완전탐색,브루트포스 알고리즘 (Bruteforcing)
     - [14500번 문제: 테트로미노](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14500_bruteforce.cpp) | [해설](https://gloriamok.tistory.com/12)
+    - [15686번 문제: 치킨 배달](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n15686_bruteforce.cpp) | [해설](https://gloriamok.tistory.com/14)
     
 
 풀이 해설은 블로그에 나와있어요
