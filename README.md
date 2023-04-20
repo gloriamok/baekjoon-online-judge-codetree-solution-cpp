@@ -75,6 +75,7 @@
     - [1152번 문제: 단어의 개수](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1152_Implementation.cpp)
     - [1157번 문제: 단어 공부](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n1157_Implementation.cpp)
     - [11720번 문제: 숫자의 합](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n11720_Implementation.cpp)
+    - [14891번 문제: 톱니바퀴](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n14891_Implementation.cpp) | [해설](https://gloriamok.tistory.com/15)
     
 7. 완전탐색,브루트포스 알고리즘 (Bruteforcing)
     - [14500번 문제: 테트로미노](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14500_bruteforce.cpp) | [해설](https://gloriamok.tistory.com/12)
