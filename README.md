@@ -82,6 +82,7 @@
     - [14500번 문제: 테트로미노](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14500_bruteforce.cpp) | [해설](https://gloriamok.tistory.com/12)
     - [15686번 문제: 치킨 배달](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n15686_bruteforce.cpp) | [해설](https://gloriamok.tistory.com/14)
     - [14888번 문제: 연산자 끼워넣기](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14888_bruteforce.cpp) | [해설](https://gloriamok.tistory.com/16)
+    - [14501번 문제: 퇴사](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n14501_bruteforce.cpp) | [해설](https://gloriamok.tistory.com/18)
     
 
 풀이 해설은 블로그에 나와있어요
