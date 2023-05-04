@@ -81,6 +81,7 @@
     - [17144번 문제: 미세먼지 안녕!](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n17144_Implementation.cpp) | [해설](https://gloriamok.tistory.com/20)
     - [14499번 문제: 주사위 굴리기](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n14499_Implementation.cpp) | [해설](https://gloriamok.tistory.com/21)
     - [14890번 문제: 경사로](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n14890_Implementation.cpp) | [해설](https://gloriamok.tistory.com/22)
+    - [15685번 문제: 드래곤 커브](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n15685_Implementation.cpp) | [해설](https://gloriamok.tistory.com/23)
     
 7. 완전탐색,브루트포스 알고리즘 (Bruteforcing)
     - [14500번 문제: 테트로미노](https://github.com/gloriamok/baekjoon-online-judge-solution-cpp/blob/main/baekjoon_n%EF%BB%BF14500_bruteforce.cpp) | [해설](https://gloriamok.tistory.com/12)
