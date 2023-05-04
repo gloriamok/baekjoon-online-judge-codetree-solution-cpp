@@ -13,7 +13,7 @@ void roll(int com) {
 			temp[i] = dice[i][1];
 		}
 		for (int i = 0; i < 4; i++) {
-			dice[i][1] = temp[(i + u) % 4]; // +3
+			dice[i][1] = temp[(i + u) % 4];
 		}
 	}
 	else { // Roll Left(West) and Right(East)
@@ -39,7 +39,7 @@ int main() {
 	cout.tie(NULL);
 
 	int n, m, x, y, k, map[20][20]{};
-	int command, dx[] = { 0,0,0,-1,1 }, dy[] = { 0,1,-1,0,0 };
+	int command, dx[] = { 0,0,0,-1,1 }, dy[] = { 0,1,-1,0,0 }; // 동쪽 1, 서쪽 2, 북쪽 3, 남쪽 4
 	cin >> n >> m >> x >> y >> k;
 
 	for (int i = 0; i < n; i++) {
