@@ -1,6 +1,6 @@
-# baekjoon-online-judge-solution-cpp
+# baekjoon-online-judge-codetree-solution-cpp
 
-백준 온라인 저지 풀이 코드 (C++)
+백준 온라인 저지 및 코드트리 풀이 코드 (C++)
 
 알고리즘 분류
 
